@@ -1,6 +1,6 @@
 # NY_CitiBike_Tableau_Data_Visualizations
 
-### **[Link to Tableau Viz](https://public.tableau.com/app/profile/jonathan.yang1344/viz/CitiBikeDataVisualizationAnalysis/CitiBikeData-Story)?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
+### **[Link to Tableau Viz](https://public.tableau.com/app/profile/jonathan.yang1344/viz/CitiBikeDataVisualizationAnalysis/CitiBikeData-Story)**
 
 ### Analysis at Bottom
 
@@ -38,7 +38,7 @@ The single csv file was then added to Tableau and visualizations were created to
 >
 > Tableau on web does not appear to respect fixed size Story and Dashboards.
 
-[Link to Tableau Viz](https://public.tableau.com/app/profile/jonathan.yang1344/viz/CitiBikeDataVisualizationAnalysis/CitiBikeData-Story)?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+**[Link to Tableau Viz](https://public.tableau.com/app/profile/jonathan.yang1344/viz/CitiBikeDataVisualizationAnalysis/CitiBikeData-Story)**
 ### Images of the four story pages
 ![Tableau Story Page 1](Images/ CitiBike_Map_All_Stations- Story1.png)
 ![Tableau Story Page 2](Images/CitiBike_Total_Statistics - Story2.png)
