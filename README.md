@@ -40,7 +40,7 @@ The single csv file was then added to Tableau and visualizations were created to
 
 **[Link to Tableau Viz](https://public.tableau.com/app/profile/jonathan.yang1344/viz/CitiBikeDataVisualizationAnalysis/CitiBikeData-Story)**
 
-### Images of the four story pages
+### Images of The Four Story Pages
 ![Tableau Story Page 1](Images/%20CitiBike_Map_All_Stations-%20Story1.png)
 ![Tableau Story Page 2](Images/CitiBike_Total_Statistics%20-%20Story2.png)
 ![Tableau Story Page 3](Images/CitiBike_Popular_Stations%20-%20Story3.png)
