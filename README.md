@@ -41,10 +41,10 @@ The single csv file was then added to Tableau and visualizations were created to
 **[Link to Tableau Viz](https://public.tableau.com/app/profile/jonathan.yang1344/viz/CitiBikeDataVisualizationAnalysis/CitiBikeData-Story)**
 
 ### Images of the four story pages
-![Tableau Story Page 1](Images/CitiBike_Map_All_Stations-Story1.png)
-![Tableau Story Page 2](Images/CitiBike_Total_Statistics-Story2.png)
+![Tableau Story Page 1](Images/%20CitiBike_Map_All_Stations-%20Story1.png)
+![Tableau Story Page 2](Images/CitiBike_Total_Statistics%20-%20Story2.png)
 ![Tableau Story Page 3](Images/CitiBike_Popular_Stations%20-%20Story3.png)
-![Tableau Story Page 4](Images/CitiBike_Time&Day_Statistics-Story4.png)
+![Tableau Story Page 4](Images/CitiBike_Time%26Day_Statistics%20-%20Story4.png)
 
 ## Analysis
 
@@ -79,3 +79,4 @@ In order from the Tableau Story:
 - Use age and gender data to look for more trends. (This data is no longer included in the public download)
 - Use more data over years to find rider growth and yearly trends.
 - Use membership data to find out how much the average individual member uses CitiBike.
+
