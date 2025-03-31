@@ -43,7 +43,7 @@ The single csv file was then added to Tableau and visualizations were created to
 ### Images of the four story pages
 ![Tableau Story Page 1](Images/CitiBike_Map_All_Stations-Story1.png)
 ![Tableau Story Page 2](Images/CitiBike_Total_Statistics-Story2.png)
-![Tableau Story Page 3](Images/CitiBike_Popular_Stations-Story3.png)
+![Tableau Story Page 3](Images/CitiBike_Popular_Stations%20-%20Story3.png)
 ![Tableau Story Page 4](Images/CitiBike_Time&Day_Statistics-Story4.png)
 
 ## Analysis
